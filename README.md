@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Dey-Soumi/cv/blob/main/canva%20pic.png)
 <h1 align="center">Hi 👋, I'm Soumi Dey</h1>
 <h3 align="center">A passionate of frontend Web-developer from India</h3>
 <img align="right" alt="coding" width="350" height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
